@@ -1,0 +1,2 @@
+# Resolusiku
+Repository untukku Kedepannya
